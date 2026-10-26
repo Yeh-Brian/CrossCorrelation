@@ -1,0 +1,12 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache & compiled bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / Editor temporary files
+.vscode/
+Thumbs.db
+.DS_Store
